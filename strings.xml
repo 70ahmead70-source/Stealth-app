@@ -1,0 +1,7 @@
+
+```xml name=app/src/main/res/values/strings.xml
+<resources>
+    <string name="app_name">Stealth Call Recorder</string>
+    <string name="start_recording">ابدأ تسجيل المكالمات</string>
+</resources>
+```
